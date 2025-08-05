@@ -1,0 +1,14 @@
+whisper-live
+pipwin
+pyaudio
+langchain
+langchain_community
+langchain_groq
+langchain_core
+openai-whisper
+faster-whisper
+sounddevice
+scipy
+webrtcvad
+numpy
+
