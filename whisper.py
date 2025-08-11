@@ -14,7 +14,7 @@ load_dotenv()
 # Parameters for the recording
 SAMPLE_RATE = 16000
 BLOCK_SIZE = 320  # 20 ms
-BUFFER_DURATION = 20 # Max seconds of recording
+BUFFER_DURATION = 30 # Max seconds of recording
 VAD_MODE = 3
 
 # Loading the whisper model
